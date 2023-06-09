@@ -12,7 +12,7 @@ router.get('/', (req, res) => {
   })
     .then(dbCatData => {
       if(!dbCatData) {
-        // Return a 404 response if no categories are found
+        // Return a 404 response if no categories
 
         res.status(404).json({message: 'No categories found'});
         return;
