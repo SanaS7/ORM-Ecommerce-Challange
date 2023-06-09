@@ -1,9 +1,15 @@
 # E-commerce Back End Starter Code
 
 <p align="center">
-    <img src="/code.gif">
-    <img src="/demo.gif">
-</p>>
+    <h3>Code Demonstration</h3>
+    <img src="code.gif">
+    <h3>Product Demonstration</h3>
+    <img src="Product.gif">
+    <h3>Category Demonstration</h3>
+    <img src="Category.gif">
+    <h3>Tag Demonstration</h3>
+    <img src="Tags.gif">
+</p>
 
 ## User Story
   
