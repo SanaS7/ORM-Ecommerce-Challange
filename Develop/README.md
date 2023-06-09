@@ -1,4 +1,4 @@
-# E-commerce Back End Starter Code
+# E-commerce Back-End
 
 <p align="center">
     <h3>Code Demonstration</h3>
