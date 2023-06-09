@@ -3,10 +3,13 @@
 <p align="center">
     <h3>Code Demonstration</h3>
     <img src="code.gif">
+    <br>
     <h3>Product Demonstration</h3>
     <img src="Product.gif">
+    <br>
     <h3>Category Demonstration</h3>
     <img src="Category.gif">
+    <br>
     <h3>Tag Demonstration</h3>
     <img src="Tags.gif">
 </p>
